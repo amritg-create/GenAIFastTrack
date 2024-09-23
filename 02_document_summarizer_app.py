@@ -6,6 +6,8 @@
 
 # streamlit run 02-AI-Business-Summarization-App/02_document_summarizer_app.py
 
+#AI FAST TRACK WEEK 2 OF BOOTCAMP WITH STREAMLIT
+
 
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_openai import ChatOpenAI
