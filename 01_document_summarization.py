@@ -4,6 +4,8 @@
 # ***
 # GOAL: Exposure to using LLM's, Document Loaders, and Prompts
 
+#Summarizing document without Streamlit AI FAST TRACK WEEK 1 OF BOOTCAMP
+
 # IMPORTANT: 
 # 1. LEARNING WITH A FAST TRACK PROJECT IS THE BEST WAY TO GET STARTED
 # 2. BECAUSE WE ARE DIVING IN, SOME OF THIS MAY FEEL UNCOMFORTABLE
