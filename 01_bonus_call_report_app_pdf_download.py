@@ -7,6 +7,8 @@
 # streamlit run path_to_app
 # streamlit run 02-FASTRACK-APP/01_bonus_call_report_app_pdf_download.py
 
+#Utilizing Ollama instead of Chat Open AI
+
 import yaml
 import streamlit as st
 
